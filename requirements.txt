@@ -1,0 +1,17 @@
+qiskit==0.45.0
+qiskit-aer==0.12.2
+qiskit-ibm-provider==0.6.3
+qiskit-ibm-runtime==0.11.3
+qiskit-ibmq-provider==0.20.2
+qiskit-machine-learning==0.6.1
+qiskit-nature==0.6.2
+qiskit-optimization==0.5.0
+qiskit-qasm3-import==0.2.0
+qiskit-terra==0.25.1
+ipywidgets==8.0.2
+numpy
+matplotlib
+scipy
+pandas
+ipykernel
+pylatexenc
